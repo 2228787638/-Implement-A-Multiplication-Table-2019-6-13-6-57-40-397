@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2228787638/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397.git"
+  },
+  "bugs": {
+    "url": "https://github.com/2228787638/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397/issues"
+  },
+  "homepage": "https://github.com/2228787638/-Implement-A-Multiplication-Table-2019-6-13-6-57-40-397#readme"
+}
